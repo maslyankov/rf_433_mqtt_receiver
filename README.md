@@ -2,4 +2,4 @@
 
 Requirements:
 
-pip install rpi-rf
+pip install rpi-rf paho-mqtt
